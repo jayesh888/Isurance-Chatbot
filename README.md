@@ -4,7 +4,7 @@ This is a simple document-based **Insurance Chatbot** built using [LangChain](ht
 
 ---
 
-## 🚀 Features
+## Features
 
 - Load insurance policy documents in PDF format
 - Generate sentence embeddings with `HuggingFace Embeddings`
@@ -15,7 +15,7 @@ This is a simple document-based **Insurance Chatbot** built using [LangChain](ht
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python 3.10+
 - LangChain
